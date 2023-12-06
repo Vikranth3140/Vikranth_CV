@@ -8,7 +8,7 @@ Hello! This is Vikranth Udandarao, and you've stumbled upon the LaTeX source cod
 How to Explore
 --------------
 
-Feel free to download the `Vikranth_Udandarao_CV.pdf` file to peruse my complete CV. If you're inclined to customize it for your own purposes, go ahead and tweak the LaTeX source code (`Vikranth_Udandarao_CV.tex`) using your favorite LaTeX editor. Compile the modified code to generate your personalized PDF.
+Feel free to download the `Vikranth_CV.pdf` file to peruse my complete CV. If you're inclined to customize it for your own purposes, go ahead and tweak the LaTeX source code (`main.tex`) using your favorite LaTeX editor. Compile the modified code to generate your personalized PDF.
 
 Sections Overview
 -----------------
